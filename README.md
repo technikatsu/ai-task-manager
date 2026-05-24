@@ -6,7 +6,7 @@ Local-first board app for `ai-agent-workflow` markdown tasks.
 
 AI Task Manager reads task files directly from a project folder and gives you a desktop or browser board over `backlog`, `inbox`, and `done`. It is built for AI-first workflows where agents such as Claude, Codex, Gemini, Copilot, or a human operator share the same markdown tickets instead of using a separate SaaS tracker.
 
-Not Jira. Not Trello. Not whatever ticket tool drained the joy out of your last job. This is a command center for AI-first work — your agents create and execute, you set scope and stay oriented. Kanban-flavoured because the vocabulary is useful; the resemblance ends there.
+Built for the engineer whose last ticketing tool drained the joy out of every Tuesday. A command center for AI-first work — your agents create and execute, you set scope and stay oriented. Kanban-flavoured because the vocabulary is useful.
 
 ![AI Task Manager demo](./img/demo.png)
 
@@ -54,8 +54,8 @@ The board you've been looking at is the same board the loop sees. Open the deskt
 
 ## Get It
 
-- **macOS desktop app:** [GitLab releases](https://gitlab.com/arturnmk/ai-task-manager/-/releases)
-- **Build from source:** [setup on GitLab](https://gitlab.com/arturnmk/ai-task-manager#build-from-source)
+- **macOS app:** [GitLab releases](https://gitlab.com/arturnmk/ai-task-manager/-/releases) — first launch needs the [Gatekeeper workaround](https://gitlab.com/arturnmk/ai-task-manager#first-time-launch-on-macos), since the build isn't notarized
+- **Linux / Windows:** Pre-built binaries are macOS-only for now — [build from source on GitLab](https://gitlab.com/arturnmk/ai-task-manager#build-from-source)
 - **The reusable agent skill (`ai-agent-workflow`):** [SKILL.md on GitLab](https://gitlab.com/arturnmk/ai-task-manager/-/blob/main/SKILL.md)
 - **Bugs & questions:** [Issues on GitLab](https://gitlab.com/arturnmk/ai-task-manager/-/issues) — I check there, not here
 
